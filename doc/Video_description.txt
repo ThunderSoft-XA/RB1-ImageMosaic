@@ -1,0 +1,1 @@
+The program collects image data from the on-board camera of the RB1 device in real time, and combines the two images into a whole smoother image. The hardware used includes RB1 onboard camera and wifi. After the program runs, you can connect AP wifi with your mobile phone and access the specified rtsp stream address to view the output results.
